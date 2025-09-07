@@ -2,10 +2,10 @@
 
 <h2 align="center">
  <abc>
-  <br>Ahoy there! 🏴‍☠️ <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Ahoy there! 🏴‍☠️<br>
   <br> I'm <span style="color:#FF0000;">Sugash D</span>, Full Stack Developer ⚔️<br>
   <br>
-    <img src="https://media.giphy.com/media/wOlKGNAdO84JuW5JQP/giphy.gif" alt="Luffy Fight GIF" width="500">
+    <img src="https://raw.githubusercontent.com/sugi003/sugi003/main/luffy.png" alt="Luffy Fight" width="500">
  </abc>
 </h2>
 
@@ -61,6 +61,16 @@
 </p>
 
 ---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sugash-d"><img src="https://img.shields.io/badge/-SugashD-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sugi003"><img src="https://img.shields.io/badge/-sugi003-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/sugash_d"><img src="https://img.shields.io/badge/-@sugash_d-D7008A?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:sugashjim@gmail.com"><img src="https://img.shields.io/badge/-sugashjim@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
+
 
 ## 🤝 Let's Connect
 
